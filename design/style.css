@@ -1,0 +1,40 @@
+body{
+    padding: 20px;
+}
+
+.inner-input{
+    padding: 50px 100px;
+}
+.login-form{
+    background-color: white;
+    box-shadow: 5px 5px 20px gray ;
+    margin: 50px 200px;
+}
+.transaction-area{
+    display: none;
+}
+.transaction-module{
+    margin-top: 100px;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.Balance{
+    background-color: orange;
+}
+.status{
+    padding: 20px 20px;
+    margin: 0 50px;
+    border-radius: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+.input-card{
+    background-color: white;
+    padding: 20px 20px;
+    box-shadow: 5px 5px 20px gray;
+    margin: 50px 50px;
+}
